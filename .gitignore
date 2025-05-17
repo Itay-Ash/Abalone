@@ -1,0 +1,6 @@
+# Project exclude paths
+.idea/
+target/
+Abalone.iml
+pom.xml
+src/main/resources/
